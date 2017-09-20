@@ -8,4 +8,4 @@
 
 
 ####copyright
-203123012 git pcoptyrigh 
+nasza praca popalaca
