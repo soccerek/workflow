@@ -8,4 +8,4 @@
 
 
 ####copyright
-dupass paaaaaarasdasd
+nasza praca popalaca
